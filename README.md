@@ -1,5 +1,7 @@
 # 🧠 Breast Cancer Tumor Classification using SVM
 
+![alt text](image.png)
+
 This project classifies breast tumors as **malignant** or **benign** using a **Support Vector Machine (SVM)** model trained on the **Breast Cancer Wisconsin (Diagnostic) Dataset**. The primary evaluation metric is **recall**, with the goal of minimizing false negatives — a critical requirement in medical diagnosis.
 
 ---
