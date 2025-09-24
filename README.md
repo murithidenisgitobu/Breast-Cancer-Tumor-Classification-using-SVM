@@ -17,12 +17,17 @@ This project classifies breast tumors as **malignant** or **benign** using a **S
 
 ---
 
-## 🎯 Project Objectives
+## 🎯 Project Objectives 
 
 - Load and preprocess the dataset
 - Train a Support Vector Machine (SVM) classifier
 - Evaluate the model with a focus on **recall**
 - Support early and accurate detection of breast cancer
+## 📝 Blog Post
+
+For a detailed walkthrough, check out the accompanying article:
+
+[Breast Tumor Classification using SVM – Medium Article](https://medium.com/@murithidenisgitobu/breast-tumor-classification-using-svm-beating-breast-cancer-5a3570807247)
 
 ---
 
